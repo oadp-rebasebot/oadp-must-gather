@@ -144,8 +144,8 @@ github.com/mattn/go-colorable v0.1.14 h1:9A9LHSqF/7dyVVX6g0U9cwm9pG3kP9gSzcuIPHP
 github.com/mattn/go-colorable v0.1.14/go.mod h1:6LmQG8QLFO4G5z1gPvYEzlUgJ2wF+stgPZH1UqBm1s8=
 github.com/mattn/go-isatty v0.0.20 h1:xfD0iDuEKnDkl03q4limB+vH+GxLEtL/jb4xVJSWWEY=
 github.com/mattn/go-isatty v0.0.20/go.mod h1:W+V8PltTTMOvKvAeJH7IuucS94S2C6jfK/D7dTCTo3Y=
-github.com/migtools/oadp-non-admin v0.0.0-20260701163218-2cdf51584ad1 h1:3Z/ExaF/NFK9YIv5OEFdf0xbsCcaeLsCVXNdB+92egs=
-github.com/migtools/oadp-non-admin v0.0.0-20260701163218-2cdf51584ad1/go.mod h1:FX9dO72suzYYHUaOT4jMGdsvU/WijgoqMjTHxDYXNUA=
+github.com/migtools/oadp-non-admin v0.0.0-20260702202318-a512175613de h1:M/wxOngMpe/0R8rqzmdGl2XdxWGyP9hyJkX9ek8+GbQ=
+github.com/migtools/oadp-non-admin v0.0.0-20260702202318-a512175613de/go.mod h1:vprrPElnt/Y5GCzrNzJhnYEN450tX1be+iHZ+LH5uLI=
 github.com/migtools/oadp-vm-file-restore v0.0.0-20260413205855-9b5ad9ff9d7a h1:XOS97C16pwdTm/AeT4RsjtG6g9o+4tCFEKlFnQzDweg=
 github.com/migtools/oadp-vm-file-restore v0.0.0-20260413205855-9b5ad9ff9d7a/go.mod h1:0UUcBS0ciimIkAC+YUUDeWufn4i1ExBaU7zsw6sM2jg=
 github.com/mitchellh/go-wordwrap v1.0.1 h1:TLuKupo69TCn6TQSyGxwI1EblZZEsQ0vMlAFQflz0v0=
