@@ -7,7 +7,7 @@ require (
 	github.com/migtools/oadp-non-admin v0.0.0-20260701163218-2cdf51584ad1
 	github.com/migtools/oadp-vm-file-restore v0.0.0-20260413205855-9b5ad9ff9d7a
 	github.com/openshift/api v0.0.0-20240912201240-0a8800162826
-	github.com/openshift/oadp-operator v1.0.2-0.20260701204534-28bfc0799a9e
+	github.com/openshift/oadp-operator v1.0.2-0.20260702184646-cefcbc39372b
 	github.com/openshift/oc v0.0.0-alpha.0.0.20250108103617-ae1bd9e4a75b
 	github.com/operator-framework/api v0.26.0
 	github.com/spf13/cobra v1.10.2
