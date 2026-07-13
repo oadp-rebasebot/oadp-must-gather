@@ -472,8 +472,8 @@ github.com/openshift/oadp-operator v1.0.2-0.20260708201044-059bc655127a h1:rHK66
 github.com/openshift/oadp-operator v1.0.2-0.20260708201044-059bc655127a/go.mod h1:i0VAQKUm5wTjdLBGQOG/2IwJzcmDHVETHUjvaa/hrmM=
 github.com/openshift/oc v0.0.0-alpha.0.0.20240408085010-d691257345ae h1:gJjj1nR2Xfv5Ez6xXUlvA3rlo8aQMd0h13sqULsVtpA=
 github.com/openshift/oc v0.0.0-alpha.0.0.20240408085010-d691257345ae/go.mod h1:eurJitiMv4y5TU1ibqR9ask6tM6/c3ME8gcoamHkOkQ=
-github.com/openshift/velero v0.10.2-0.20260707184635-e3ed032b0b82 h1:EuFIJkajn36wu6xkfgbuOEH9vFPR4ETt59D+2Yx8eh8=
-github.com/openshift/velero v0.10.2-0.20260707184635-e3ed032b0b82/go.mod h1:Sy+Pw7/lIGH/H+2KtA+hkxH5Z5TwzwRqukymuzQAo00=
+github.com/openshift/velero v0.10.2-0.20260713192235-49b763b1d6f3 h1:6FZd5zfDn9z/lq9drBE6dPfcklI2oiu3K7RuxbfyggQ=
+github.com/openshift/velero v0.10.2-0.20260713192235-49b763b1d6f3/go.mod h1:Sy+Pw7/lIGH/H+2KtA+hkxH5Z5TwzwRqukymuzQAo00=
 github.com/operator-framework/api v0.17.1 h1:J/6+Xj4IEV8C7hcirqUFwOiZAU3PbnJhWvB0/bB51c4=
 github.com/operator-framework/api v0.17.1/go.mod h1:kk8xJahHJR3bKqrA+A+1VIrhOTmyV76k+ARv+iV+u1Q=
 github.com/peterbourgon/diskv v2.0.1+incompatible h1:UBdAOUP5p4RWqPBg048CAvpKN+vxiaj6gdUUzhl4XmI=
