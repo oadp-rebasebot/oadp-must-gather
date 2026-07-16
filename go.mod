@@ -1,12 +1,12 @@
 module github.com/openshift/oadp-must-gather
 
-go 1.25.8
+go 1.25.0
 
 require (
 	github.com/kubernetes-csi/external-snapshotter/client/v8 v8.0.0
 	github.com/migtools/oadp-non-admin v0.0.0-20260511183620-aad3132759e1
 	github.com/openshift/api v0.0.0-20240912201240-0a8800162826
-	github.com/openshift/oadp-operator v1.0.2-0.20260701210730-181c14d72fe9
+	github.com/openshift/oadp-operator v1.0.2-0.20260702194132-8b31db9e5f3f
 	github.com/openshift/oc v0.0.0-alpha.0.0.20250108103617-ae1bd9e4a75b
 	github.com/operator-framework/api v0.26.0
 	github.com/spf13/cobra v1.8.1
